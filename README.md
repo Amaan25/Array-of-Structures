@@ -1,4 +1,4 @@
-# Third-Sem-Projects
+# Vehicle Data Management
 
 Write a program in C to manage information of Cars and its owners using array of structures. There are two structures in a program named as Vehicle and Owner.
 An array with the IDs of this car's owners is owners_ID. An owner can have a maximum of 5 cars.
